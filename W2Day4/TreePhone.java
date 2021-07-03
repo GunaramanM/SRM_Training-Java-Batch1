@@ -17,9 +17,9 @@ public class TreePhone
     static void insert()
     {
         
-        tm.put(781738342, "Rikitha");
-        tm.put(751234567, "Manoj");
-        tm.put(989878673, "Kumar");
+        tm.put(781738342, "Guna");
+        tm.put(751234567, "Raman");
+        tm.put(989878673, "M");
         
     }
   
@@ -58,7 +58,7 @@ public class TreePhone
         search(781738342);
   
         
-        search("Manoj");
+        search("M");
 	}
 
 }
